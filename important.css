@@ -1,0 +1,23 @@
+.btn-message-now{
+    margin-top: 25px;
+    background-color: grey;
+    border-radius: 30px;
+    margin-left: 100px;
+    border: solid;
+    height: auto;
+    width: auto;
+    font-size: 3vw;
+    color: white;
+}
+.message-now{
+    margin-left: 40%;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+background-image: linear-gradient(rgb(0, 102, 120), rgb(79, 168, 255));
+    
